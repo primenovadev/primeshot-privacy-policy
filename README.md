@@ -1,4 +1,4 @@
-# primeshot-privacy-policy
+# PrimeShot-Privacy-Policy
 Official privacy policy for PrimeShot camera app by PrimeNova.
-# primeshot download from here:
+# PrimeShot Download From Here:
 https://apkpure.com/p/com.primenova.primeshot
